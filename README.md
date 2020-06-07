@@ -1,4 +1,4 @@
-# Typescript Simple Boilerplate
+# typescript-webpack-basic-starter
 
 A no-nonsense starter for playing around with typescript.
 
